@@ -5,15 +5,5 @@
     "password": "jjh",
     "expiresAt": "2025-12-12",
     "allowOffline": false
-  },
-  {
-    "id": "536362",
-    "username": "leo",
-    "password": "leo",
-    "expiresAt": "2025-12-12",
-    "allowOffline": false,
-    "allowedApps": [
-      "All Apps"
-    ]
   }
 ]
