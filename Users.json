@@ -15,12 +15,5 @@
     "allowedApps": [
       "All Apps"
     ]
-  },
-  {
-    "id": "11223344",
-    "username": "wolf",
-    "password": "wolf",
-    "expiresAt": "2025-12-12",
-    "allowOffline": false
   }
 ]
